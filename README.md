@@ -4,7 +4,7 @@
 
 Nama: ISMAYA CATUR DEWI AZZAHRA
 NIM: 2225250018
-Kelas: 3
+Kelas: 3A
 
 ## Tujuan
 
